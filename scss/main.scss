@@ -55,6 +55,7 @@ main{
 
         a{
             padding: 0.4rem;
+            color: set-text-color($primary-color);
 
             &:hover{
                 color: $secondary-color;
@@ -137,7 +138,7 @@ main{
     margin-top: 1rem;
 
     div{
-        font-size: 2rem;
+        font-size: 1.5rem;
         border: 3px #fff solid;
         padding: 1.5rem 2.5rem;
         margin-bottom: 3rem;
